@@ -1,0 +1,41 @@
+Description: [E:]Запоминающее устройство для USB(SMI USB DISK)
+Device Type:  Mass Storage Device
+
+Protocal Version: USB 2.00
+Current Speed: High Speed
+Max Current: 500mA
+
+USB Device ID: VID = 090C PID = 1000
+Serial Number: CCYYMMDDHHMMSSXGOSAX
+
+Device Vendor: SMI Corporation
+Device Name: USB DISK
+Device Revision: 1100
+
+Manufacturer: SMI
+Product Model: USB DISK
+Product Revision: 1100
+
+Controller Vendor: SMI
+Controller Part-Number: SM3271AC1 - ISP 180312-DG1
+Flash ID code:      AD3A18A3 - Hynix H27UDG8M2MTR - 1CE/Single Channel [TLC-16K] -> Total Capacity = 16GB
+
+Tools on web: http://dl.mydigit.net/special/up/smi.html
+
+
+Possible Flash Part-Number
+----------------------------
+[1CE]H27UDG8M2MTR x 1 pcs/Channel x 1 Channel
+
+
+Flash ID mapping table
+----------------------------
+[Channel 0]	[Channel 1]
+AD3A18A3	--------
+--------	--------
+--------	--------
+--------	--------
+--------	--------
+--------	--------
+--------	--------
+--------	--------
